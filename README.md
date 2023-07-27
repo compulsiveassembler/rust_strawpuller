@@ -3,7 +3,7 @@ A silly CLI tool that picks a random element of a vector. Glorified dice roll so
 
 ## TO DO
 1 - Rewrite with crossterm to make portable  
-
+&nbsp;
 2 - Add exception for empty Vec<String>  
-
+&nbsp;
 3 - Make some sort of animation so that the RNG presents choice with a little more fanfare or something
